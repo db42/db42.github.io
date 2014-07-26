@@ -6,17 +6,21 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Dushyant Bansal
+tagline:          Dushyant Bansal
+url:              http://db42.in
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Dushyant Bansal
+  url:            https://twitter.com/dushyant_db
+  email:          dushyant37@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/db42/db42.github.io
+
+pages_list:
+  About:		  '/about'	
+  Archive:        '/archive'
