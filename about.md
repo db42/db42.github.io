@@ -3,28 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+ -->
+Hey there, My name is Dushyant Bansal. I am a full time iOS and Windows Phone developer at [ringo.co](http://ringo.co). Before that I worked on [go.to](http://go.to) and [talk.to](http://talk.to).
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Apart from my day job, I usually hack around to scratch my own itch or just for fun. Anything that I have shipped for public use, I find worthy to mention here.
 
-There are currently two themes built on Poole:
+* [1000WPM - Speed reader for iPhone and iPad](http://1000wpm.in)
+* [QuickFill - Handy clipboard for iPhone and iPad](https://itunes.apple.com/us/app/quickfill/id818680907?mt=8)
+* [Google tasks manager for Windows Phone](http://www.windowsphone.com/en-us/store/app/gtodo/b42b6474-ab4c-4984-b922-d4f6a9ead2b7)
+* [Track your productivity - Chrome extension](https://chrome.google.com/webstore/detail/onnkllhiaannegcomgbogohfpeegdnnf)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I am always excited about interesting conversations. Feel free to drop a line at *dushyant37@gmail.com*.
