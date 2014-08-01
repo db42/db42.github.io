@@ -1,3 +1,8 @@
+---
+layout: post
+title: Setting HTTP request timeout with AFNetworking
+---
+
 Chances are you must have experienced the need of setting `timeout` for an HTTP request. Most of the times, this need can be resolved 
 by other means. `AFNetworking` has a timeout of `60 seconds`, by default, for all HTTP requests. You must also be very careful in 
 choosing whether to modify this default timeout. My advice would be to go through these discussions first:
