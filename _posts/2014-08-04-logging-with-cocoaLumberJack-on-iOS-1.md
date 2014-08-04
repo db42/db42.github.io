@@ -5,7 +5,7 @@ title: Complete logging solution with CocoaLumberJack for iOS applications - I
 
 Client device logs can be a great asset to make your iOS app bug-free. Apart from helping you debug by seeing the console logs, ability to get client device logs should be part of your logging solution.
 
-There are other capabilities that are expected to be present in your logging framework. For example, performance, ability to perform logging asynchronously and ability to customize each log format. If you want to read about these in detail, you should go through []().
+There are other capabilities that are expected to be present in your logging framework. For example, performance, ability to perform logging asynchronously and ability to customize each log format. If you want to read about these in detail, you should go through [Ditching NSLog](http://theonlylars.com/blog/2012/07/29/ditching-nslog-advanced-ios-logging-part-2/).
 
 After using a couple of third party logging libraries, I have ended up using [CocoaLumberjack]() with my own customizations. 
 
@@ -19,7 +19,7 @@ Using `CocoaLumberjack` in place of `NSLog` will make logging more performant, a
 pod 'CocoaLumberjack'
 ```
 
-* CocoaLumberjack allows you to declare `ddLogLevel` in each file to have file based loggin level. Global level loggin should be enough for most people. 
+* CocoaLumberjack allows you to declare `ddLogLevel` in each file to have file based logging level. Global level logging should work fine for most people. 
 Create a `Constants.h` equivalent file to define global `ddLogLevel`
 
 ```
@@ -54,3 +54,8 @@ Set up the logger in `applicationDidFinishLaunching`
 
 `DDLog` macros have the same exact syntax as `NSLog` so, you could just find and replace `NSLog`.
 
+-------------
+Next posts in this segment will cover
+
+* Logging with custom formatting to include `timestamp`, `function_name`
+* Getting client device logs
