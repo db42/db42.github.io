@@ -8,15 +8,14 @@ Last week, I finished reading [Share your work](http://austinkleon.com/show-your
 It convinced me to start sharing my learnings from others' and my own experiences.
 
 
-## My takeways
-
-* ###Choose your topic 
+## My takeaways
+###Choose your topic  
 Don't try to write about everything. Sticking to a few domains will help you to reach out to your fellow community and will make it easier to focus on writing. Choose a topic on which you are actively seeking more information and just share your observations as you make progress. You can write about photography, mobile development, travel or anything that excites you.
-* ###Focus on a single medium 
+###Focus on a single medium 
 Goal is to keep minimum diversions and help you focus on the sharing part.
-* ###Choose a medium which suits you 
+###Choose a medium which suits you 
 I've decided to start sharing on twitter. My reason is word limit which gives me one less reason to procrastinate.
-* ###Never share bullshit 
+###Never share bullshit 
 Don't share just for the sake of sharing. Trust your instincts. Always ask yourself before sharing whether you'd have found this helpful or interesting. Don't overthink as well.
-* ###Don't wait to get started 
+###Don't wait to get started 
 This is the most important step. Just create and update your twitter profile and start sharing. I just started sharing on [twitter](http://twitter.com/dushyant_db).
