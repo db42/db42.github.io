@@ -14,8 +14,8 @@ I always suggest to keep these two things in mind.
 If you’re the business owner, read [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html). Ask your designer to read this if he hasn’t already. Try to stick to these guidelines for your app. **STICK** to these guidelines. You can thank me later once your app hits the store.  
 This has two advantages.
 
-1. Faster development 
+1. **Faster development**  
 Building app with native UI paradigms and controls is the quickest way. Not only the development work of custom UI design takes more time, it’s also more prone to workload estimation errors and will result in frequent missing deadlines. This is especially true if your iOS developer is not proficient enough.
 
-2. Avoid making shitty design
+2. **Avoid making shitty design**  
 You can dramatically increase your chances of not screwing up the iOS app by sticking to these iOS paradigms. It is always safe and wise to rely upon the apple’s guidelines than coming up with your own designs. Users are already familiar with this design and therefore, you’ll be investing minimum effort to educate your users.
