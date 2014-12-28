@@ -10,8 +10,8 @@ I always suggest to keep these two things in mind.
 ## Thinnest slice of a working app
  Relentlessly cut scope of the first version for your iOS mobile app. Decide on the  minimum set of core features that are super critical for your app. You can always add more features in a later release. Release the thinnest slice, see what works and what doesn't. Learn and keep iterating on the good parts.
 
-## Design - Stick to iOS native constrols/paradigms
-If you’re the business owner, read [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html). Ask your designer to read this if he hasn’t already. Try to stick to these guidelines for your app. **STICK** to these guidelines. You can thank me later once your app hits the store.  
+## Design - Stick to iOS native controls/paradigms
+If you’re the business owner, read [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html). Ask your designer to read this if he hasn’t already. Try to stick to these guidelines for your app design. **STICK** to these guidelines. You can thank me later once your app hits the store.  
 This has two advantages.
 
 1. **Faster development**  
