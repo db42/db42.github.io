@@ -6,7 +6,7 @@ title: Software developer's guide to finish and release a side project - Part 1 
 
 Most of us have more than a couple of side projects which never get released. Some of them are genuinely unfinished in the sense that they are still a long way to do what they were supposed to do. But a lot of them don't get released due to petty issues like creating a landing page and other platform release requirements e.g. demo video, screenshot, icons etc.
 
-I call these petty issues because they only look huge due to your inexperience with these and you only need to do bare minimum job. These issues are quite important for actual products but we are only treating these as blockers for our app release.
+I call these petty issues because they only look huge due to your inexperience with these and you only need to do bare minimum job. These issues are quite important for actual products but we are only treating these as blockers for your app release.
 
 ## 1. Choosing the application name
 Look for a single catchy word. A quick and good way to start is by looking at the synonyms of your app's purpose. For example, if you've built a speed reading app, you can settle on various synonyms of 'speed' - 'Rush reader', 'rush', 'velocity' etc. This step is often done in parallel with 2.1.
@@ -17,7 +17,7 @@ Check availability for all of your probable app names (single word) with a '.com
 
 
 ### 2.2 Hosting
-If you already have a hosting account, you are all set. Otherwise, you can choose from lots of cheap solutions as we just need to host a bunch of static pages. It is a good idea to look for hosts which offer unlimited domain hosting. I use basic iPage plan which comes with unlimited domains hosting.
+If you already have a hosting account, you are all set. Otherwise, you can choose from lots of cheap solutions as you just need to host a bunch of static pages. It is a good idea to look for hosts which offer unlimited domain hosting. I use basic iPage plan which comes with unlimited domains hosting.
 
 ### 2.3 Website theme and design
 
