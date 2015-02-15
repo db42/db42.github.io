@@ -14,6 +14,7 @@ As a result you'll have following entry in `InfoPlist.strings`:
 
 ##App icon
 There are two ways to specify app icon in xcode.
+
 * Asset catalog  
 
 No way to localize asset catalog app icon.
@@ -30,6 +31,7 @@ https://devforums.apple.com/message/1099478#1099478
 
 ##Launch screen
 There are three ways to implement a launch screen
+
 * Launch screen xib file (from iOS8)
 
 XCode give an option to generate localized strings file for the launch xib. But this doesn't work. Excerpts from the [apple docs](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LaunchImages.html).
