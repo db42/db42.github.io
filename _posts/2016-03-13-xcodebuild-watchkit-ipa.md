@@ -40,7 +40,8 @@ After adding watchkit support to an existing iOS project, I got the following er
     /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1499:in `CompileOrStripBitcodeInBundle'
     /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1687:in `ProcessIPA'
     /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2210:in `<main>'}
-    ```
+    
+```
 
 Solution:
 
