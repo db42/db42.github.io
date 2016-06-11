@@ -16,6 +16,13 @@ author:
   url:            https://twitter.com/dushyant_db
   email:          dushyant37@gmail.com
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 # Custom vars
 version:          1.0.0
 github:
