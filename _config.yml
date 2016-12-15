@@ -37,4 +37,4 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
