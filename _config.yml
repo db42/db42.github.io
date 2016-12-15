@@ -36,3 +36,5 @@ pages_list:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+theme: jekyll-theme-minimal
